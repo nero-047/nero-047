@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Gurung</h1>
-<h3 align="center">A 21-year-old Computer Science Engineering student at Chandigarh Engineering College. Originally from Jammu, I’m passionate about technology, coding, and exploring innovations in the field of computer science.</h3>
+<h3 align="center">A 22-year-old Computer Science Engineering student at Chandigarh Engineering College. Originally from Jammu, I’m passionate about technology, coding, and exploring innovations in the field of computer science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nero-047&label=Profile%20views&color=0e75b6&style=flat" alt="nero-047" /> </p>
 
